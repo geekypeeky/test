@@ -1,4 +1,3 @@
 //starting a new project
 
-// Hey Shalini HOw are you?
-//hello 
+// Hey Shalini! How are you?
